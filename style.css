@@ -2,3 +2,7 @@ h1{
     text-align: center;
     font-size: 25px;
     color: rgb(0, 195, 255);
+}
+body {
+    background-color: black;
+}
