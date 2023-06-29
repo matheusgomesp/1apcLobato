@@ -4,5 +4,8 @@ h1{
     color: white;
 }
 body {
-    background-color: black;
+    background-image: url(mago.jpg);
+}
+.feitiçeiro {
+    width: 20%;
 }
