@@ -13,3 +13,6 @@ body {
 .ini {
     background-image: url("mago.jpg");
 }
+.button{
+display: inline-block;
+}
